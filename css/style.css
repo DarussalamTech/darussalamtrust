@@ -374,7 +374,8 @@ background-color:#FFF;
 		}
 .scrolling_text ul{width:100%; height:auto; position:relative; margin-left:18px;}
 .scrolling_text ul li{padding-right:25px; color: #414141; font-family: candara; font-size: 16px; line-height: 1.3em;}
-.scrolling_text table{width:440px; border:1px solid #999; margin:15px auto;}
+.scrolling_text table{width:640px; border:1px solid #999; margin:15px auto;}
 .scrolling_text table td{text-align:center; color: #414141; font-family: candara; font-size: 16px; }
+.text_content h2 span{font-size:20px;}
 @media (min-device-width: 1024px) and (max-device-width: 1920px) {
 	header nav ul li a{padding:0 26px;}}
